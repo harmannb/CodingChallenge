@@ -1,10 +1,10 @@
 # CodingChallenge
 Follow the steps below to run the project:
 
-1. Clone this repository:\n
+1. Clone this repository:
 git clone https://github.com/harmannb/CodingChallenge.git
 
-2. Change into the directory and install the dependencies:\n
+2. Change into the directory and install the dependencies:
 npm install
 
 3. Run the server:
