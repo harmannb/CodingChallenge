@@ -10,6 +10,6 @@ npm install
 3. Run the server:
 npm start
 
-4. Now you an visit the routes through localhost (use a browser or curl):
+4. Now you can visit the routes through localhost (use a browser or curl):
 localhost:8000/
 localhost:8000/hello
